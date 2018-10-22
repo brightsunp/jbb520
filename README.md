@@ -1,6 +1,6 @@
 ﻿## To celebrate our love. Hope baby zf love it.
 
-Need:
+Requirement:
 `pip install myqr`
 
 --sunp
