@@ -1,6 +1,4 @@
-﻿## To celebrate our love. Hope baby zf love it.
+﻿## To celebrate our love.
 
 Requirement:
 `pip install myqr`
-
---sunp
